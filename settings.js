@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['+94786216843']
-global.premium = ['+94786216843']
-global.ownernomer = '+94786216843'
-global.ownername = 'Notiya Real'
-global.botname = 'NotiyaReal-Md'
-global.footer = 'NotiyaReal'
-global.ig = 'https://github.com/NotiyaReal/Notiya-Real-Md'
-global.region = 'Sri Lanka, Central Province, Polonnaruwa'
-global.sc = 'https://github.com/NotiyaReal/Notiya-Real-Md'
-global.myweb = 'https://chat.whatsapp.com/KLs2vFsPDFu0jgmvHKC2Xf'
-global.packname = 'Notiya Multy-Device Edition'
-global.author = 'ɴᴏᴛɪʏᴀ ʀᴇᴀʟ'
+global.owner = ['94704209801']
+global.premium = ['94704209801']
+global.ownernomer = '94704209801'
+global.ownername = 'ℙℝ𝔸𝔹𝕆𝔻ℍ𝔸 ℙℝ𝔸𝕊ℍ𝔸𝔻 𝕄𝔸𝕃𝕀ℕ𝔾𝔸'
+global.botname = 'ℙℝ𝔸𝔹𝕆𝔻ℍ𝔸 ℙℝ𝔸𝕊ℍ𝔸𝔻 𝕄𝔸𝕃𝕀ℕ𝔾𝔸-𝕄𝔻'
+global.footer = 'ℙℝ𝔸𝔹𝕆𝔻ℍ𝔸 ℙℝ𝔸𝕊ℍ𝔸𝔻 𝕄𝔸𝕃𝕀ℕ𝔾𝔸'
+global.ig = 'https://chat.whatsapp.com/Jow3H9DlzNw4XjLRCfmxsy'
+global.region = 'Sri Lanka, Central Province,'
+global.sc = 'https://chat.whatsapp.com/Jow3H9DlzNw4XjLRCfmxsy'
+global.myweb = 'https://chat.whatsapp.com/Jow3H9DlzNw4XjLRCfmxsy'
+global.packname = 'ℙℝ𝔸𝔹𝕆𝔻ℍ𝔸 ℙℝ𝔸𝕊ℍ𝔸𝔻 𝕄𝔸𝕃𝕀ℕ𝔾𝔸'
+global.author = 'ℙℝ𝔸𝔹𝕆𝔻ℍ𝔸 ℙℝ𝔸𝕊ℍ𝔸𝔻 𝕄𝔸𝕃𝕀ℕ𝔾𝔸'
 global.sessionName = 'session'
 global.prefa = ['!','.']
 global.sp = '⭔'
